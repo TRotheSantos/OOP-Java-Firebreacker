@@ -1,4 +1,4 @@
-# OOP-Java-Firebreacker
+# OOP-Java-Firebreaker
 
 University Project first semester @KIT in Object Oriented Programming in Java
 
